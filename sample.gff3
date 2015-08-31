@@ -1,0 +1,27 @@
+##gff-version   3
+##sequence-region   Chromosome 1 3654135
+Chromosome	ena	gene	478	1299	.	+	.	ID=gene:SMc02793;biotype=protein_coding;description=Conserved hypothetical protein;version=1
+Chromosome	ena	transcript	478	1299	.	+	.	ID=transcript:CAC41388;Parent=gene:SMc02793;Dbxref=ENA_FEATURE_PROTEIN:AL591688.1:CDS:478..1299,ENA_FEATURE_TRANSCRIPT:AL591688.1:CDS:478..1299,IntEnz:2.7.11.32,IntEnz:2.7.4.27,STRING:266834.SMc02793,UniParc:UPI00000CB8E8,UniProtKB:Q92TF2,NCBI_GP:CAC41388.1;Ontology_term=GO:GO:0004674,GO:GO:0005524,GO:GO:0006470,GO:GO:0016776,GO:GO:0043531;biotype=protein_coding;version=1
+Chromosome	ena	exon	478	1299	.	+	.	Parent=transcript:CAC41388;Name=CAC41388-1;constitutive=1;rank=1
+Chromosome	ena	CDS	478	1299	.	+	0	Parent=transcript:CAC41388
+###
+Chromosome	ena	gene	1347	1946	.	+	.	ID=gene:SMc02792;biotype=protein_coding;description=Septum formation protein Maf;version=1
+Chromosome	ena	transcript	1347	1946	.	+	.	ID=transcript:CAC41389;Parent=gene:SMc02792;Dbxref=ENA_FEATURE_PROTEIN:AL591688.1:CDS:1347..1946,ENA_FEATURE_TRANSCRIPT:AL591688.1:CDS:1347..1946,STRING:266834.SMc02792,UniParc:UPI00001390B6,UniProtKB:Q92TF1,NCBI_GP:CAC41389.1;Ontology_term=GO:GO:0005737;biotype=protein_coding;version=1
+Chromosome	ena	exon	1347	1946	.	+	.	Parent=transcript:CAC41389;Name=CAC41389-1;constitutive=1;rank=1
+Chromosome	ena	CDS	1347	1946	.	+	0	Parent=transcript:CAC41389
+###
+Chromosome	ena	gene	1939	2799	.	+	.	ID=gene:SMc02791;Name=aroE1;biotype=protein_coding;description=Probable shikimate 5-dehydrogenase;version=1
+Chromosome	ena	transcript	1939	2799	.	+	.	ID=transcript:CAC41390;Parent=gene:SMc02791;Dbxref=ENA_FEATURE_PROTEIN:AL591688.1:CDS:1939..2799,ENA_FEATURE_TRANSCRIPT:AL591688.1:CDS:1939..2799,IntEnz:1.1.1.25,KEGG:00400+1.1.1.25,MetaCyc:ALL-CHORISMATE-PWY,MetaCyc:ARO-PWY,MetaCyc:COMPLETE-ARO-PWY,MetaCyc:PWY-6163,MetaCyc:PWY-6165,MetaCyc:PWY-6628,MetaCyc:PWY-6629,MetaCyc:PWY-6630,Rhea:17737,STRING:266834.SMc02791,UniParc:UPI0000125FF3,UniPathway:UPA00053,UniProtKB:Q92TF0,NCBI_GP:CAC41390.1;Ontology_term=GO:GO:0004764,GO:GO:0009073,GO:GO:0009423,GO:GO:0019632,GO:GO:0050661;biotype=protein_coding;version=1
+Chromosome	ena	exon	1939	2799	.	+	.	Parent=transcript:CAC41390;Name=CAC41390-1;constitutive=1;rank=1
+Chromosome	ena	CDS	1939	2799	.	+	0	Parent=transcript:CAC41390
+###
+Chromosome	ena	gene	2796	3380	.	+	.	ID=gene:SMc02790;Name=coaE;biotype=protein_coding;description=Dephospho-CoA kinase;version=1
+Chromosome	ena	transcript	2796	3380	.	+	.	ID=transcript:CAC41391;Parent=gene:SMc02790;Dbxref=ENA_FEATURE_PROTEIN:AL591688.1:CDS:2796..3380,ENA_FEATURE_TRANSCRIPT:AL591688.1:CDS:2796..3380,IntEnz:2.7.1.24,KEGG:00770+2.7.1.24,MetaCyc:COA-PWY,MetaCyc:PANTOSYN-PWY,MetaCyc:PWY-4221,MetaCyc:PWY-4242,Rhea:18245,STRING:266834.SMc02790,UniParc:UPI0000127CF0,UniPathway:UPA00241,UniProtKB:Q92TE9,NCBI_GP:CAC41391.1;Ontology_term=GO:GO:0004140,GO:GO:0005524,GO:GO:0005737,GO:GO:0015937;biotype=protein_coding;version=1
+Chromosome	ena	exon	2796	3380	.	+	.	Parent=transcript:CAC41391;Name=CAC41391-1;constitutive=1;rank=1
+Chromosome	ena	CDS	2796	3380	.	+	0	Parent=transcript:CAC41391
+###
+Chromosome	ena	gene	3574	4302	.	+	.	ID=gene:SMc02789;Name=dnaQ;biotype=protein_coding;description=Probable DNA polymerase III%2C epsilon chain;version=1
+Chromosome	ena	transcript	3574	4302	.	+	.	ID=transcript:CAC41392;Parent=gene:SMc02789;Dbxref=ENA_FEATURE_PROTEIN:AL591688.1:CDS:3574..4302,ENA_FEATURE_TRANSCRIPT:AL591688.1:CDS:3574..4302,IntEnz:2.7.7.7,KEGG:00230+2.7.7.7,KEGG:00240+2.7.7.7,STRING:266834.SMc02789,SWISS_MODEL:Q92TE8,UniParc:UPI00000D4793,UniProtKB:Q92TE8,NCBI_GP:CAC41392.1;Ontology_term=GO:GO:0003677,GO:GO:0003887,GO:GO:0004527,GO:GO:0006260;biotype=protein_coding;version=1
+Chromosome	ena	exon	3574	4302	.	+	.	Parent=transcript:CAC41392;Name=CAC41392-1;constitutive=1;rank=1
+Chromosome	ena	CDS	3574	4302	.	+	0	Parent=transcript:CAC41392
+###
