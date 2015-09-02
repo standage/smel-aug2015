@@ -1,6 +1,6 @@
 ## Assignment 1: computing gene length and %GC content distributions
 
-Using the provided *Sinorhizobium meliloti* data in this repository, write code to calculate the length and %GC content of each gene in the genome.
+Using the provided *Sinorhizobium meliloti* data in this repository (see `README.md` for a description of the data files), write code to calculate the length and %GC content of each gene in the genome.
 Create a scatter plot with gene length on the X axis and gene %GC content on the Y axis.
 
 ### Some comments
